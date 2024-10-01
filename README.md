@@ -40,6 +40,7 @@ while True:
 ```
 ## OUPUT
 ![Screenshot 2024-10-01 203433](https://github.com/user-attachments/assets/f685503e-9baf-47a1-a035-04bab35cacd2)
+
 ![Screenshot 2024-10-01 203554](https://github.com/user-attachments/assets/35826aa5-5176-49cc-8a39-fc1a87ef960a)
 
 ## RESULT
